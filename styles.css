@@ -1,0 +1,47 @@
+/* add your CSS here */
+body {
+    border: 1px solid black;
+    width: 400px;
+    text-align: center;
+    padding: 5px 5px 45px 5px;
+    margin: 0 auto;
+
+}
+
+img {
+    margin: 5px 10px 25px 10px;
+    width: 300px;
+}
+
+.animal-info {
+    border: 1px solid black;
+    text-align: left;
+    margin: 0 auto;
+    width: 300px;
+}
+
+#italics {
+    font-style: italic;
+}
+
+ul {
+    margin-left: 0px;
+}
+
+ul li {
+    list-style: none;
+    font-style: italic;
+
+}
+
+.bold-text {
+    font-weight: bold;
+    font-style: normal;
+
+}
+
+.margin-text {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
